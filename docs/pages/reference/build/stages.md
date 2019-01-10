@@ -114,13 +114,13 @@ Introspect stage before the specified stage. Affects only dimgs, not artifacts.
 
 Introspect specified artifact stage after this stage is built. Affects only artifacts, not dimgs.
 
-`STAGE` is one of the: _from_, _before_install_, _before_install_artifact_, _g_a_archive_, _g_a_pre_install_patch_, _install_, _g_a_post_install_patch_, _after_install_artifact_, _before_setup_, _before_setup_artifact_, _g_a_pre_setup_patch_, _setup_, _after_setup_artifact_, _g_a_artifact_patch_, _build_artifact_.
+`STAGE` is one of the: _from_, _before_install_, _before_install_artifact_, _g_a_archive_, _g_a_pre_install_patch_, _install_, _g_a_post_install_patch_, _after_install_artifact_, _before_setup_, _before_setup_artifact_, _g_a_pre_setup_patch_, _setup_, _after_setup_artifact_, _g_a_artifact_patch_.
 
 ##### \-\-introspect-artifact-before STAGE
 
 Introspect artifact stage before the specified stage. Affects only artifacts, not dimgs.
 
-`STAGE` is one of the: _from_, _before_install_, _before_install_artifact_, _g_a_archive_, _g_a_pre_install_patch_, _install_, _g_a_post_install_patch_, _after_install_artifact_, _before_setup_, _before_setup_artifact_, _g_a_pre_setup_patch_, _setup_, _after_setup_artifact_, _g_a_artifact_patch_, _build_artifact_.
+`STAGE` is one of the: _from_, _before_install_, _before_install_artifact_, _g_a_archive_, _g_a_pre_install_patch_, _install_, _g_a_post_install_patch_, _after_install_artifact_, _before_setup_, _before_setup_artifact_, _g_a_pre_setup_patch_, _setup_, _after_setup_artifact_, _g_a_artifact_patch_.
 
 ##### \-\-introspect-before-error
 
